@@ -51,7 +51,7 @@ Python、机器学习、深度学习算法开发等学习资源分享，如下�
 
 [LeetCode算法题库-github](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
 
-[Python实现算法](https://github.com/TheAlgorithms/Python)
+[Python实现算法-github](https://github.com/TheAlgorithms/Python)
 
 
 
