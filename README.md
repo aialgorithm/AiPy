@@ -7,7 +7,7 @@
 ```
 Python、机器学习、深度学习算法开发等学习资源分享，如下目录：
 
-## [Python资料](https://github.com/aialgorithm/AiPy/tree/master/Python%E8%B5%84%E6%96%99)
+## [Python资料](https://github.com/aialgorithm/AiPy/tree/master/Python)
 
 《Python编程从入门到实践》
 
@@ -49,7 +49,7 @@ Python、机器学习、深度学习算法开发等学习资源分享，如下�
 ## [数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/数据结构与算法)
 《算法图解》
 
-[LeetCode题库-github](https://github.com/apachecn/Interview/tree/master/docs/Algorithm/Leetcode/Python)
+[LeetCode算法题库-github](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
 
 [Python实现算法](https://github.com/TheAlgorithms/Python)
 
