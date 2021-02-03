@@ -5,7 +5,7 @@
 欢迎广大学习爱好者共享资源，共同学习交流。
 资源均源于网络，如有侵权请联系删除。
 ```
-Python、机器学习、深度学习算法开发等学习资源分享，如下目录：
+## Python、机器学习、深度学习算法开发等学习资源分享。如下目录：
 
 ## [Python资料](https://github.com/aialgorithm/AiPy/tree/master/Python)
 
