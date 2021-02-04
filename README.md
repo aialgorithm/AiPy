@@ -69,9 +69,9 @@
 
 - 《算法图解》
 
-[LeetCode算法题库-github](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
+- LeetCode算法题库[github](https://github.com/apachecn/Interview/tree/master/docs/Algorithm)
 
-[Python实现算法(全)-github](https://github.com/TheAlgorithms/Python)
+- Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
 
 
