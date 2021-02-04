@@ -34,6 +34,7 @@
 - 《机器学习(南瓜书)》
 
 - 吴恩达机器学习视频    -- 机器学习入门经典课程，附笔记解析及代码
+
 链接: https://pan.baidu.com/s/1-vtfFX5ln6N4pgB9s1LexA 提取码: 2nh7 
 
 
@@ -46,6 +47,7 @@
 - 《神经网络综述》    -- lecun大佬的神经网络综述
 
 - 吴恩达深度学习视频    -- 深度学习入门经典课程，附笔记解析及代码
+
 链接: https://pan.baidu.com/s/1yUNrs9-hhRKyOLPV1bfalw 提取码: 9rwv 
 
 ## [知识图谱](https://github.com/aialgorithm/AiPy/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
@@ -55,6 +57,7 @@
 - 《Graph_Algorithms_Neo4j》    -- 经典的Neo4j图算法
 
 - 知识图谱视频资料  
+
 链接: https://pan.baidu.com/s/1A06xecLF5yN8xAkmSfASsg 提取码: prfc 
 
 
@@ -72,6 +75,7 @@
 - Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
 - 数据结构与算法之美视频资料
+
 链接：https://pan.baidu.com/s/1HqF0yPpGjAK6g8EO_cAvmw 提取码：aipy 
 
 ---
