@@ -1,18 +1,18 @@
 # AiPy（ALL in Python）
+## 
 
 
 ```
+分享Python、机器学习、深度学习算法等学习资源。
 
-欢迎广大学习爱好者共享资源(可以PR或Issue留言)，共同学习交流。
+欢迎广大学习爱好者一起共享资源(可以PR或Issue留言)，共同学习交流。
 
 喜欢本仓库的朋友，欢迎 Star & Fork ~
 
 ```
 
-## 分享Python、机器学习、深度学习算法等学习资源。
 
-
-## [Python资料](https://github.com/aialgorithm/AiPy/tree/master/Python)
+## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
 
 - 《Python编程从入门到实践》    -- Python入门的经典教材
 
@@ -35,7 +35,7 @@
 
 - 《machine learning yearning_吴恩达》	--吴恩达的一本机器学习、深度学习实践经验宝典
 
-- 吴恩达机器学习视频    -- 机器学习入门经典课程，附笔记解析及代码(文末下载链接)
+-  吴恩达机器学习视频    -- 机器学习入门经典课程，附笔记解析及代码(文末下载链接)
 
 
 
@@ -47,7 +47,7 @@
 
 - 《神经网络综述》    -- lecun大佬的神经网络综述
 
-- 吴恩达深度学习视频    -- 深度学习入门经典课程，附笔记解析及代码(文末下载链接)
+-  吴恩达深度学习视频    -- 深度学习入门经典课程，附笔记解析及代码(文末下载链接)
 
 
 ## [知识图谱](https://github.com/aialgorithm/AiPy/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
@@ -56,7 +56,7 @@
 
 - 《Graph_Algorithms_Neo4j》    -- 经典的图算法(neo4j实现)
 
-- 知识图谱视频资料    -- 知识图谱入门课程(文末下载链接)
+-  知识图谱视频资料    -- 知识图谱入门课程(文末下载链接)
 
 
 ## [数据分析](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
@@ -84,4 +84,6 @@
 链接：https://pan.baidu.com/s/1wrtNSxGm7tfO5T4LwyrLSw 提取码：aipy 
 
 ![公众号：算法进阶](Ai_Algo.jpg)
-		资源均源于网络，如有侵权请联系删除。
+```
+资源均源于网络，如有侵权请联系删除。
+```
