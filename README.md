@@ -1,17 +1,18 @@
 # AiPy（ALL in Python）
-## 分享Python、机器学习、深度学习算法等学习资源。
+## 
 
 
 ```
+分享Python、机器学习、深度学习算法等学习资源。
 
-欢迎广大学习爱好者共享资源(可以PR或Issue留言)，共同学习交流。
+欢迎广大学习爱好者一起共享资源(可以PR或Issue留言)，共同学习交流。
 
 喜欢本仓库的朋友，欢迎 Star & Fork ~
 
 ```
 
 
-## [Python资料](https://github.com/aialgorithm/AiPy/tree/master/Python)
+## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
 
 - 《Python编程从入门到实践》    -- Python入门的经典教材
 
@@ -83,4 +84,6 @@
 链接：https://pan.baidu.com/s/1wrtNSxGm7tfO5T4LwyrLSw 提取码：aipy 
 
 ![公众号：算法进阶](Ai_Algo.jpg)
-		资源均源于网络，如有侵权请联系删除。
+```
+资源均源于网络，如有侵权请联系删除。
+```
