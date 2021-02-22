@@ -1,4 +1,5 @@
-# AiPy（ALL in Python: 分享Python、机器学习、深度学习算法等学习资源。）
+# AiPy（ALL in Python）
+## 分享Python、机器学习、深度学习算法等学习资源。
 
 
 ```
