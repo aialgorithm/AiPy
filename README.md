@@ -23,6 +23,7 @@
 - 《Python参考手册_第4版》	--Python工具书
 
 
+
 ## [机器学习](https://github.com/aialgorithm/AiPy/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
 - 《统计学习方法_李航》    -- 机器学习经典教材，可搭配课件及代码一起学习。
@@ -35,7 +36,7 @@
 
 - 《机器学习(南瓜书)》			--西瓜书的难点公式的解析
 
-- 《machine learning yearning_吴恩达》	--吴恩达的一本机器学习、深度学习实践经验宝典
+- 《machine learning yearning_吴恩达》	--吴恩达的机器学习实践经验宝典
 
 -  吴恩达机器学习视频    -- 机器学习入门经典课程，附笔记解析及代码(文末下载链接)
 
@@ -80,6 +81,9 @@
 
 - Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
+## [Ai知识小册](https://github.com/aialgorithm/AiPy/tree/master/Ai知识小册)
+
+- Ai知识小册		-- 汇总Python、机器学习、大数据的知识小册
 
 ---
 
