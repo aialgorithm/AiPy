@@ -83,7 +83,7 @@
 
 ## [Ai知识小册](https://github.com/aialgorithm/AiPy/tree/master/Ai知识小册)
 
-- Ai知识小册		-- 汇总Python、机器学习、大数据的知识小册
+- Ai知识小册		-- Python、机器学习、大数据的知识小册
 
 ---
 
