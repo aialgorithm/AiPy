@@ -1,8 +1,6 @@
 # AiPy（ALL in Python）
-## 喜欢本资源的童鞋，欢迎 Star & Fork ~
-
 ```
-分享Python、机器学习、深度学习算法等学习资源。
+分享Python、机器学习、深度学习算法等学习资源，欢迎 Star & Fork ~
 
 欢迎广大学习爱好者一起分享资源(PR或Issue留言)，共同学习交流。
 ```
