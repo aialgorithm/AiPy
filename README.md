@@ -1,15 +1,14 @@
-# AiPy（ALL in Python）
-## 
-
-
+## 分享Python、机器学习算法等学习资源，欢迎 Star & Fork ~
 ```
-分享Python、机器学习、深度学习算法等学习资源。
-
-欢迎广大学习爱好者一起共享资源(可以PR或Issue留言)，共同学习交流。
-
-喜欢本仓库的朋友，欢迎 Star & Fork ~
-
+欢迎广大学习爱好者一起分享资源(PR或Issue留言)，共同学习交流。
 ```
+
+
+
+## [Ai知识小册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%B0%8F%E5%86%8C)
+
+- Ai知识小册		-- Python、机器学习、大数据的知识小册
+
 
 
 ## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
@@ -57,6 +56,7 @@
 -  吴恩达深度学习视频    -- 深度学习入门经典课程，附笔记解析及代码(文末下载链接)
 
 
+
 ## [知识图谱](https://github.com/aialgorithm/AiPy/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
 
 - 《知识图谱概述报告-2018》     -- 中国中文信息协会知识图谱发展报告
@@ -66,12 +66,14 @@
 -  知识图谱视频资料    -- 知识图谱入门课程(文末下载链接)
 
 
+
 ## [数据分析](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)
 
 - 《利用Python进行数据分析》      -- pandas数据分析经典书籍
 
 
-## [数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/数据结构与算法)
+
+## [数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 - 《算法图解》      -- 经典的算法学习入门
 
@@ -83,9 +85,7 @@
 
 - Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
-## [Ai知识小册](https://github.com/aialgorithm/AiPy/tree/master/Ai知识小册)
 
-- Ai知识小册		-- Python、机器学习、大数据的知识小册
 
 ---
 
