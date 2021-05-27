@@ -6,7 +6,7 @@
 
 
 ## [Ai知识图册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
-![](https://user-images.githubusercontent.com/33707637/119753411-4f21f580-bed1-11eb-8300-b20690ba5f8e.png)
+![](https://user-images.githubusercontent.com/33707637/119755722-0b30ef80-bed5-11eb-8c31-e0d2574a0c4a.png)
 
 - Ai知识图册		-- Python、机器学习、大数据知识图册(全)
 
