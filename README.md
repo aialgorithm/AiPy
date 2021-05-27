@@ -6,11 +6,14 @@
 
 
 ## [Ai知识图册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
+![](https://user-images.githubusercontent.com/33707637/119753411-4f21f580-bed1-11eb-8300-b20690ba5f8e.png)
 
-- Ai知识图册		-- Python、机器学习、大数据简要的知识图册
+- Ai知识图册		-- Python、机器学习、大数据知识图册(全)
 
 
 ## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
+![](https://user-images.githubusercontent.com/33707637/119753941-3108c500-bed2-11eb-8841-40f542386a19.png)
+
 
 - 《Python编程从入门到实践》    -- Python入门的经典教材
 
