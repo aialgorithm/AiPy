@@ -5,10 +5,9 @@
 
 
 
-## [Ai知识小册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%B0%8F%E5%86%8C)
+## [Ai知识图册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
 
-- Ai知识小册		-- Python、机器学习、大数据的知识小册
-
+- Ai知识图册		-- Python、机器学习、大数据简要的知识图册
 
 
 ## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
