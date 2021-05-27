@@ -95,7 +95,7 @@
 
 链接：https://pan.baidu.com/s/1wrtNSxGm7tfO5T4LwyrLSw 提取码：aipy 
 
-![公众号：算法进阶](Ai_Algo.jpg)
+![公众号：算法进阶](https://user-images.githubusercontent.com/33707637/119756102-9f9b5200-bed5-11eb-85f9-5dbc264d447d.png)
 ```
 资源均源于网络，如有侵权请联系删除。
 ```
