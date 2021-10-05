@@ -1,8 +1,9 @@
 ## 分享Python、机器学习算法等学习资源，欢迎 Star & Fork ~
 ```
 欢迎广大学习爱好者一起分享资源(PR或Issue留言)，共同学习交流。
+如下是本仓库的目录清单，部分大容量资源未直接存储在本仓库，转存于文末的百度云地址。
 ```
-
+[本资源的食用方法](https://github.com/aialgorithm/Blog/issues/22)
 
 
 ## [Ai知识图册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
@@ -23,7 +24,13 @@
 
 - 《Python参考手册_第4版》	--Python工具书
 
+## [数学](https://github.com/aialgorithm/AiPy/tree/master/数学)
 
+- 高等数学
+
+- 线性代数
+
+- 概率与数理统计
 
 ## [机器学习](https://github.com/aialgorithm/AiPy/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 
@@ -51,7 +58,7 @@
 
 - 《深度学习原理和代码》     --花书学习笔记及代码
 
-- 《神经网络综述》    -- lecun大佬的神经网络综述
+- 《神经网络综述》    -- 神经网络三巨头合著神经网络综述
 
 - 《动手学深度学习》  -- 李沐大佬合著的深度学习入门实践教材及代码
 
