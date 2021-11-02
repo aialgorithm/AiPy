@@ -6,10 +6,10 @@
 [本资源的食用方法](https://github.com/aialgorithm/Blog/issues/22)
 
 
-## [Ai知识图册](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
+## [Ai知识简要](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
 ![](https://user-images.githubusercontent.com/33707637/119755722-0b30ef80-bed5-11eb-8c31-e0d2574a0c4a.png)
 
-- Ai知识图册		-- Python、机器学习、大数据知识图册(全)
+- Ai知识简要		-- Python、机器学习、大数据知识要点概括
 
 
 ## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
