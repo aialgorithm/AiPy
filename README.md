@@ -98,9 +98,9 @@
 
 - 深度学习500问[github](https://github.com/scutan90/DeepLearning-500-questions)
 
-- 机器\深度学习面试宝典[github][https://github.com/datawhalechina/daily-interview)
+- 机器\深度学习面试宝典[github](https://github.com/datawhalechina/daily-interview)
 
-- 机器学习面试题（此仓库已长时间无更新）[github][https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
+- 机器学习面试题（此仓库已长时间无更新）[github](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
 
 
 ## 数据竞赛实战
