@@ -82,8 +82,13 @@
 - 《利用Python进行数据分析》      -- pandas数据分析经典书籍
 
 
+## 数据竞赛实战
 
-## [数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
+- 数据竞赛Top解决方案及代码[github](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+
+- 数据竞赛Base解决方案及代码[github](https://github.com/datawhalechina/competition-baseline)
+
+## [面试、基础数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
 - 《算法图解》      -- 经典的算法学习入门
 
@@ -95,11 +100,13 @@
 
 - Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
-## 数据竞赛实战
+- Python面试题[github]( https://github.com/taizilongxu/interview_python)
 
-- 数据竞赛Top解决方案及代码[github](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+- 深度学习500问(github)[https://github.com/scutan90/DeepLearning-500-questions]
 
-- 数据竞赛Base解决方案及代码[github](https://github.com/datawhalechina/competition-baseline)
+- 机器\深度学习面试宝典(github)[https://github.com/datawhalechina/daily-interview]
+
+- 机器学习面试题(github)[ https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese  ] （此仓库已长时间无更新）
 
 ---
 
