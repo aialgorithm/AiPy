@@ -95,7 +95,11 @@
 
 - Python实现算法(全)[github](https://github.com/TheAlgorithms/Python)
 
+## 数据竞赛实战
 
+- 数据竞赛Top解决方案及代码[github](https://github.com/Smilexuhc/Data-Competition-TopSolution)
+
+- 数据竞赛Base解决方案及代码[github](https://github.com/datawhalechina/competition-baseline)
 
 ---
 
