@@ -67,7 +67,9 @@
 
 
 
-## [知识图谱](https://github.com/aialgorithm/AiPy/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
+## [NLP、知识图谱](https://github.com/aialgorithm/AiPy/tree/master/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1)
+
+- 《中文信息处理发展报告-2021》     -- 中国中文信息协会自然语言发展报告
 
 - 《知识图谱概述报告-2018》     -- 中国中文信息协会知识图谱发展报告
 
