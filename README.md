@@ -10,7 +10,7 @@
 ## [Ai知识图册 >>>点击链接](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
 ![](https://user-images.githubusercontent.com/33707637/119755722-0b30ef80-bed5-11eb-8c31-e0d2574a0c4a.png)
 
-- Ai知识图册		-- Python、机器学习、大数据知识要点的速查表。
+- Ai知识图册		-- AI路线、Python、机器学习、大数据知识要点的速查表。
 
 
 ## [Python](https://github.com/aialgorithm/AiPy/tree/master/Python)
