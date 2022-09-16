@@ -1,6 +1,6 @@
 ## 分享Python、机器学习算法等学习资源，欢迎 Star & Fork ~
 ```
-欢迎广大学习爱好者一起分享资源(PR或Issue留言)，共同学习交流。
+欢迎广大学习爱好者共享资源(PR或Issue留言https://github.com/aialgorithm/AiPy/issues)，共同学习交流。
 如下是本仓库的目录清单，部分大容量资源未直接存储在本仓库，转存于文末的百度云地址。
 ```
 [本资源的食用建议To初学者](https://github.com/aialgorithm/Blog/issues/22)
@@ -83,6 +83,9 @@
 
 - 《利用Python进行数据分析》      -- pandas数据分析经典书籍
 
+## [Python精品课程合集]
+
+- 链接:https://pan.baidu.com/s/1kiC_GwNy8Sl2gXxVnAVMiQ?pwd=aipy 提取码:aipy 
 
 ## [面试、基础数据结构与算法](https://github.com/aialgorithm/AiPy/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
 
