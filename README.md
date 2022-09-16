@@ -83,7 +83,7 @@
 
 - 《利用Python进行数据分析》      -- pandas数据分析经典书籍
 
-## [Python精品课程合集]
+## Python精品课程合集
 
 - 链接:https://pan.baidu.com/s/1kiC_GwNy8Sl2gXxVnAVMiQ?pwd=aipy 提取码:aipy 
 
