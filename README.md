@@ -7,7 +7,7 @@
 
 
 
-## [Ai知识图册 >>>点击链接](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
+## [Ai知识图解 >>>点击链接](https://github.com/aialgorithm/AiPy/tree/master/Ai%E7%9F%A5%E8%AF%86%E5%9B%BE%E5%86%8C)
 ![](https://user-images.githubusercontent.com/33707637/119755722-0b30ef80-bed5-11eb-8c31-e0d2574a0c4a.png)
 
 - Ai知识图册		-- AI路线、Python、机器学习、大数据知识要点的速查表。
@@ -118,7 +118,7 @@
 
 如github下载较慢，也可以百度网盘自行下载整个仓库资源。
 
-链接：https://pan.baidu.com/s/1wrtNSxGm7tfO5T4LwyrLSw 提取码：aipy 
+链接：[https://pan.baidu.com/s/1wrtNSxGm7tfO5T4LwyrLSw 提取码：aipy ](https://pan.baidu.com/s/17-sYGIrdMqZLpET5RqHBzQ?pwd=aipy)
 
 ![公众号：算法进阶](https://user-images.githubusercontent.com/33707637/119756102-9f9b5200-bed5-11eb-85f9-5dbc264d447d.png)
 ```
